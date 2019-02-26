@@ -1,14 +1,10 @@
-<h1 align="center">
-  My Gatsby's default starter using styled-componets
-</h1>
+# Gatsby's starter using styled-componets 💅
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
+Gatsby default starter modified to use Styled Components.
 
 ## 🚀 Quick start
 
-1.  **Create a Gatsby site.**
-
-    Use the Gatsby CLI to create a new site, specifying the default starter.
+1.  **Clone this repository**
 
     ```sh
     # create a new Gatsby site using the default starter
@@ -84,6 +80,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 ## 💫 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/blakenoll/gatsby-starter-styled-components)
 
 <!-- AUTO-GENERATED-CONTENT:END -->

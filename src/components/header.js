@@ -7,16 +7,8 @@ import { Container } from "./layoutComponents"
 const Header = ({ siteTitle, className }) => (
   <header className={className}>
     <Container>
-      <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
-          style={{
-            color: `white`,
-            textDecoration: `none`,
-          }}
-        >
-          {siteTitle}
-        </Link>
+      <h1>
+        <Link to="/">{siteTitle}</Link>
       </h1>
     </Container>
   </header>
@@ -34,6 +26,9 @@ const StyledHeader = styled(Header)`
   color: var(--white);
   background: var(--primary-color);
   padding: 1rem 0;
+  h1 {
+    margin: 0;
+  }
 `
 
 export default StyledHeader
