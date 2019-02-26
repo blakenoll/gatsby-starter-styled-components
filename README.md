@@ -7,8 +7,7 @@ Gatsby default starter modified to use Styled Components.
 1.  **Clone this repository**
 
     ```sh
-    # create a new Gatsby site using the default starter
-    npx gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
+    git clone https://github.com/blakenoll/gatsby-starter-styled-components.git
     ```
 
 1.  **Start developing.**
@@ -16,7 +15,7 @@ Gatsby default starter modified to use Styled Components.
     Navigate into your new site’s directory and start it up.
 
     ```sh
-    cd my-default-starter/
+    cd gatsby-starter-styled-components/
     gatsby develop
     ```
 
