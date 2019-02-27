@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `My Gatsby Starter w/ styled-componets`,
+    title: `Gatsby Starter w/ styled-componets`,
     description: `Gatsby starter using styled-components`,
     author: `@blakenoll`,
   },
