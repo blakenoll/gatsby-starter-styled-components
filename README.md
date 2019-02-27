@@ -1,6 +1,6 @@
-# Gatsby's starter using styled-componets 💅
+# Gatsby starter using styled-components 💅
 
-Gatsby default starter modified to use Styled Components.
+Gatsby default starter modified to use [styled-componets](https://www.styled-components.com/).
 
 ## 🚀 Quick start
 
